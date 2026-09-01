@@ -20,4 +20,6 @@ aliases:
 ## Enlaces útiles
 
 - [[Base-Clientes-Facturacion]] — base de seguimiento de clientes y facturación
+- [[dossier-video-bodas]] — dossier de ventas para parejas (Juan Fra Palos · Photo & Film)
+- [[clausula-pago-servicio-dron]] — cláusula de contrato para el servicio de dron
 - [[00_Dashboard]]

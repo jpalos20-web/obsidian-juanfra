@@ -58,6 +58,12 @@ SaaS propio de Juan Fra: un CRM para fotógrafos y videógrafos de bodas en Espa
 - Iteración 2 con identidad "Juan Fra Palos Fotografía" (foto del fotógrafo, galería de 3 fotos personalizable) y un tercer modo "Respuesta" con descarga de PDF.
 - Archivo de diseño: `Formulario Boda VeraCRM.dc.html`.
 
+**2026-06-29 — Rediseño del gráfico del dashboard (design chat)**
+- Fila completa del dashboard rediseñada: tarjetas de métricas + gráfico de área interactivo + donut, con estilo editorial refinado (crema/terracota/verde, Newsreader + Hanken Grotesk).
+- Gráfico de área con curvas Bézier suaves y degradados sutiles (sustituye las líneas planas originales); tooltip interactivo con línea guía y valores exactos por fecha al pasar el ratón.
+- Donut "Origen de leads" interactivo: al pasar por un segmento o la leyenda se resalta y el centro muestra su porcentaje.
+- Datos de ejemplo coherentes con el CRM real (26 leads, 6 bodas) para que la curva cuente una historia de crecimiento en vez de verse vacía.
+
 **2026-06-29 — Cerrar lead con tono cercano y agradecimiento** *(fuente: chat)*
 - Email de cierre para lead real (Alisha y Alex, boda 22 may 2027, Masia Casa del Mar, Sitges): felicitación, disponibilidad, dossier, propuesta de café/videollamada sin presión.
 - Estilo de Juan Fra fijado como referencia: frases cortas, muletillas naturales, sin enlaces a trabajos previos salvo que se pida, nada que "suene a IA".

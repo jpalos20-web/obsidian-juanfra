@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/proyecto.md",
+                "file": "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "proyecto"
+              "title": "VERA"
             }
           }
         ]
@@ -188,19 +188,27 @@
   },
   "active": "831ac432e37c1563",
   "lastOpenFiles": [
+    "02_Areas/Tecnologia-Desarrollo/Claude-Code/Claude-Code.md",
+    "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
+    "proyectos/vera-crm.md",
+    "ideas/negocios-bodas-eventos-cloud.md",
+    "inbox/consultas-sueltas-2026.md",
+    "personas/alba-escalante-escorihuela.md",
+    "resources/perfil-juanfra.md",
+    "resources/guia-prompting-claude.md",
+    "resources/rutina-gimnasio-juan-fra.md",
+    "resources/clausula-pago-servicio-dron.md",
+    "research/skills-claude-code-instalacion.md",
+    "templates/proyecto.md",
     "research/stream-deck-davinci-resolve.md",
     "proyectos/dossier-video-bodas.md",
-    "proyectos/vera-crm.md",
     "proyectos/nexus-media-lab.md",
-    "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
     "proyectos/alba-salud.md",
     "proyectos/rawpress.md",
     "proyectos/organizador-fotos-duplicity.md",
-    "02_Areas/Tecnologia-Desarrollo/Claude-Code/Claude-Code.md",
     "CLAUDE.md",
     "templates/research.md",
     "templates/persona.md",
-    "templates/proyecto.md",
     "templates/daily-note.md",
     "resources",
     "templates",
@@ -214,15 +222,8 @@
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Downloads-Files.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/DUPLICITY.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Nexusmedialab.md",
-    "02_Areas/Tecnologia-Desarrollo/Claude-Code/BOT.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code",
-    "03_Recursos/Plantillas/Plantilla-Cliente.md",
     "03_Recursos/Bases-de-datos/Base-Clientes-Facturacion.base",
-    "02_Areas/Gestion-Personal/Gestion-Personal.md",
-    "02_Areas/Tecnologia-Desarrollo/Tecnologia-Desarrollo.md",
-    "02_Areas/Fotografia-Profesional/Fotografia-Profesional.md",
-    "00_Dashboard.md",
-    "Sin título.canvas",
-    "Bienvenido.md"
+    "Sin título.canvas"
   ]
 }

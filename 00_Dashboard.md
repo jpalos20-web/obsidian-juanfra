@@ -13,8 +13,19 @@ cssclasses:
 
 ## 🚀 Proyectos activos
 
-> [!todo] Sin proyectos activos todavía
-> Crea una nota dentro de [[01_Proyectos]] por cada encargo con fecha de entrega (ej. una boda, un reportaje) y enlázala aquí.
+- [[vera-crm|Vera CRM]] — SaaS para fotógrafos/videógrafos de boda
+- [[organizador-fotos-duplicity|Organizador de Fotos y Vídeos (DUPLICITY)]]
+- [[rawpress|RAWPress]] — compresión de RAWs + catálogos Lightroom
+- [[alba-salud|Alba Salud]] — app de salud y nutrición
+- [[nexus-media-lab|Nexus Media Lab]] — bot de Amazon afiliados + web de la agencia
+- [[dossier-video-bodas|Dossier de vídeo]] — Juan Fra Palos · Photo & Film
+
+> [!todo] Encargos con fecha de entrega
+> Crea una nota dentro de [[01_Proyectos]] por cada encargo puntual (ej. una boda, un reportaje) y enlázala aquí.
+
+## 🧩 Segundo cerebro (captura rápida)
+
+Carpetas de captura: `daily-notes/` · `proyectos/` · `research/` · `personas/` · `ideas/` · `inbox/` — ver [[CLAUDE]] para las convenciones.
 
 ## 🧠 Claude Code (segundo cerebro)
 
