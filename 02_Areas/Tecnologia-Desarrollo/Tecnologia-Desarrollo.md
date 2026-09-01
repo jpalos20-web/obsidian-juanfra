@@ -15,6 +15,7 @@ aliases:
 - [[Obsidian]] — configuración, plugins y flujo de notas
 - [[Git]] — control de versiones de la bóveda y otros proyectos
 - [[Automatizaciones]] — scripts y automatizaciones (backups, integraciones, etc.)
+- [[Claude-Code]] — segundo cerebro: registro sincronizado de todo el trabajo hecho con Claude Code (VERA, BOT, DUPLICITY, NexusMediaLab...)
 
 ## Enlaces útiles
 
