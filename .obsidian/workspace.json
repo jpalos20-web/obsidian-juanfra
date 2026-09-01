@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7213ceb0fe09b09e",
+        "id": "fd673e57815c9388",
         "type": "tabs",
         "children": [
           {
-            "id": "6dc001c96462846a",
+            "id": "831ac432e37c1563",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "templates/proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "proyecto"
             }
           }
         ]
@@ -182,10 +186,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc001c96462846a",
+  "active": "831ac432e37c1563",
   "lastOpenFiles": [
-    "CLAUDE.md",
+    "research/stream-deck-davinci-resolve.md",
+    "proyectos/dossier-video-bodas.md",
+    "proyectos/vera-crm.md",
+    "proyectos/nexus-media-lab.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
+    "proyectos/alba-salud.md",
+    "proyectos/rawpress.md",
+    "proyectos/organizador-fotos-duplicity.md",
+    "02_Areas/Tecnologia-Desarrollo/Claude-Code/Claude-Code.md",
+    "CLAUDE.md",
     "templates/research.md",
     "templates/persona.md",
     "templates/proyecto.md",
@@ -199,7 +211,6 @@
     "proyectos",
     "daily-notes",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Claude-Code-Sync-Log.md",
-    "02_Areas/Tecnologia-Desarrollo/Claude-Code/Claude-Code.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Downloads-Files.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/DUPLICITY.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Nexusmedialab.md",
