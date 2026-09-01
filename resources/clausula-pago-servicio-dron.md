@@ -24,6 +24,10 @@ Cláusula contractual para fotografía/videografía de bodas: el servicio de dro
 - El importe se integra en el último plazo de pago, no como cargo aparte.
 - Sin umbral numérico de viento fijado (se sugirió ~25-35 km/h, sin confirmar).
 
+## 📎 Transcripción completa
+
+- [[2026-06-26-redacci-n-de-cl-usula-de-pago-para-servicio-de-dron|Redacción de cláusula de pago para servicio de dron]]
+
 ## 🔗 Relacionado
 
 - [[dossier-video-bodas]]

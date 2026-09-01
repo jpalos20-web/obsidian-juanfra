@@ -26,6 +26,10 @@ Configuración del Stream Deck+ en Mac para controlar parámetros de color de Da
 - Recalibrar coordenadas del Stream Deck si se mueve/redimensiona la ventana de Resolve (limitación estructural del método por coordenadas fijas).
 - Identificar el perfil de color de un clip Sony vía sus metadatos XML antes de mezclar.
 
+## 📎 Transcripción completa
+
+- [[2026-08-30-configurar-stream-deck-con-davinci-resolve|Configurar Stream Deck+ con DaVinci Resolve]]
+
 ## 🔗 Relacionado
 
 - [[dossier-video-bodas]]

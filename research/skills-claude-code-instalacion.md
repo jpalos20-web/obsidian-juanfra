@@ -25,6 +25,10 @@ Instalación de tres skills de diseño de terceros en el repo de Vera CRM: `emil
 
 - Orden de prioridad recomendado para auditar una app con estas skills: 1) pantallas cara al cliente (formularios públicos), 2) dashboard/pipeline, 3) flujo de contratación/firma, 4) onboarding, 5) toasts/notificaciones.
 
+## 📎 Transcripción completa
+
+- [[2026-07-01-instalaci-n-de-skill-de-emilkowalski|Instalación de skill de emilkowalski]]
+
 ## 🔗 Relacionado
 
 - [[vera-crm]]

@@ -46,6 +46,13 @@ Dos frentes bajo la marca "Nexus Media Lab": (1) un canal/bot de Telegram de ofe
 - [ ] Decidir dirección visual definitiva de nexusmedialab.es (afinar la actual o explorar una segunda)
 - [ ] Revisar solapamiento de skills de diseño instaladas (Taste Skill vs. Impeccable/Emil)
 
+## 📎 Transcripciones completas
+
+- [[2026-04-30-bot-aut-nomo-de-amazon-afiliados-en-python|Bot autónomo de Amazon afiliados — 30 abr]]
+- [[2026-05-20-extracci-n-personalizada-de-lecciones-y-skills|Skill nexus-tiktok — 20 may]]
+- [[2026-06-29-historial-perdido-de-web-creada-con-claude|Historial perdido de la web — 29 jun]]
+- [[2026-07-01-design-web-redise-o-vanguardista|Rediseño vanguardista (design) — 1 jul]]
+
 ## 🔗 Relacionado
 
 - [[BOT]] — historial técnico de Claude Code (bot Chollos Verificados, iteraciones posteriores)

@@ -27,6 +27,10 @@ Herramienta propia de compresión lossless de RAWs de Sony (sustituta de Rawsie,
 
 - [ ] Validar el actualizador de catálogo contra más catálogos reales
 
+## 📎 Transcripciones completas
+
+- [[2026-06-24-actualizar-cat-logos-de-lightroom-con-archivos-dng|Actualizar catálogos de Lightroom — 24 jun]]
+
 ## 🔗 Relacionado
 
 - [[Downloads-Files]] — historial técnico de Claude Code (compresión RAW, empaquetado de la app)

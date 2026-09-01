@@ -27,6 +27,8 @@ cssclasses:
 
 Carpetas de captura: `daily-notes/` · `proyectos/` · `research/` · `personas/` · `ideas/` · `inbox/` — ver [[CLAUDE]] para las convenciones.
 
+- [[Indice-Transcripciones]] — conversaciones completas de Claude.ai (sin resumir), enlazadas desde cada nota de proyecto
+
 ## 🧠 Claude Code (segundo cerebro)
 
 > [!tip] Sincronizado automáticamente

@@ -24,6 +24,10 @@ Dossier de ventas premium en formato web (paginado, exportable a PDF/HTML autón
 - Maquetador de fotos evolucionado en varias iteraciones hasta llegar a guías magnéticas (snapping) a márgenes/centros/otros marcos.
 - Exportación dual: HTML autónomo (offline, fotos incrustadas, para WhatsApp/email) y versión imprimible/PDF.
 
+## 📎 Transcripciones completas
+
+- [[2026-06-03-design-dossier-video|Diseño del dossier — 3 jun]]
+
 ## 🔗 Relacionado
 
 - [[nexus-media-lab]]

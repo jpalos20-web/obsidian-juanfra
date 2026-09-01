@@ -46,6 +46,11 @@ App de salud y nutrición hecha a medida para Alba (mujer de Juanfra): single-fi
 - [ ] Revisar ajustes de diseño en móvil
 - [ ] Cards de comida con foto/emoji grande y pills de macros (propuesto, no confirmado)
 
+## 📎 Transcripciones completas
+
+- [[2026-05-13-app-personalizada-de-control-de-peso-y-salud|Construcción inicial — 13 may]]
+- [[2026-05-18-actualizar-est-tica-y-funciones-de-la-app|Actualizar estética y funciones — 18 may]]
+
 ## 🔗 Relacionado
 
 - [[perfil-juanfra]]

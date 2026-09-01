@@ -21,6 +21,10 @@ Ideación inspirada en un compañero que replicó Pic-time con Claude. Explora o
   - Métricas de Instagram: 3 vías evaluadas — API oficial de Meta (recomendada, aprobación 2-6 semanas), entrada manual (rápida para MVP), o integración con terceros (Metricool, Later).
 - Ideas mencionadas pero sin desarrollar: asistente de planificación para novios, reels automatizados, marketplace de proveedores verificados, generador de contratos y presupuestos.
 
+## 📎 Transcripción completa
+
+- [[2026-04-29-negocios-sin-explotar-en-bodas-y-eventos-con-cloud|Negocios sin explotar en bodas y eventos con cloud]]
+
 ## 🔗 Relacionado
 
 - [[nexus-media-lab]]

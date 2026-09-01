@@ -20,6 +20,7 @@ Eres mi asistente personal y segundo cerebro. Tu objetivo es ayudarme a capturar
 - inbox/ → pendiente de procesar
 - templates/ → plantillas base
 - resources/ → material de referencia
+- transcripciones/ → conversaciones completas de Claude.ai sin resumir (fuente cruda); enlazadas desde la nota correspondiente en proyectos/research/resources/ideas
 
 ## Tags principales del sistema
 - #daily → notas diarias

@@ -51,6 +51,13 @@ App de escritorio en Python/PySide6 (proyecto "DUPLICITY", `/Users/juanfra/Deskt
 - [ ] Validar `importar_iphone.py` contra un iPhone real
 - [ ] Terminar de aplicar el rediseño de "Importar desde iPhone" en el código real
 
+## 📎 Transcripciones completas
+
+- [[2026-06-15-organizador-de-fotos-y-videos-sin-duplicados|Construcción inicial — 15 jun]]
+- [[2026-06-15-design-adaptar-dise-o-de-importar-fotos|Diseño de "Importar desde iPhone" — 15 jun]]
+- [[2026-06-23-renombrar-fotos-por-hora-de-captura|Renombrar fotos por hora — 23 jun]]
+- [[2026-04-28-automatizaci-n-y-organizaci-n-de-discos-duros|Automatización de discos duros — 28 abr]]
+
 ## 🔗 Relacionado
 
 - [[DUPLICITY]] — historial técnico detallado de sesiones de Claude Code

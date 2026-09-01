@@ -126,6 +126,21 @@ SaaS propio de Juan Fra: un CRM para fotógrafos y videógrafos de bodas en Espa
 - [ ] Decidir si desinstalar algún skill de diseño solapado (Impeccable / Emil Kowalski / Taste Skill)
 - [ ] Verifactu Fase 2 (envío real a AEAT), obligatorio julio 2027
 
+## 📎 Transcripciones completas
+
+- [[2026-07-27-continuando-con-vera|Continuando con Vera — 27 jul]]
+- [[2026-06-29-cerrar-lead-con-tono-cercano-y-agradecimiento|Cerrar lead con tono cercano — 29 jun]]
+- [[2026-06-29-design-gr-fico-crm-m-s-est-tico|Diseño gráfico del dashboard — 29 jun]]
+- [[2026-06-11-vera-crm-features-desplegadas-y-pendientes-de-verificar|Features desplegadas y pendientes — 11 jun]]
+- [[2026-06-10-plan-ascend-de-wix|Plan Ascend de Wix — 10 jun]]
+- [[2026-06-04-tres-posts-de-instagram-para-vera-crm|Tres posts de Instagram — 4 jun]]
+- [[2026-06-04-design-portal-novios|Diseño del portal de novios — 4 jun]]
+- [[2026-06-01-continuidad-del-proyecto-sin-perder-contexto|Continuidad sin perder contexto — 1 jun]]
+- [[2026-06-01-design-facturas-vera|Diseño de facturas — 1 jun]]
+- [[2026-06-22-design-contenido-instagram-veracrm|Contenido de Instagram (design) — 22 jun]]
+- [[2026-07-14-design-formulario-boda-veracrm|Diseño de formulario de boda — 14 jul]]
+- [[2026-05-14-design-studio-juan-fra|Prototipo completo "vera" — 14 may]]
+
 ## 🔗 Relacionado
 
 - [[VERA]] — historial técnico detallado de sesiones de Claude Code

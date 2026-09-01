@@ -19,6 +19,10 @@ Maquetación en PDF de la rutina de gimnasio personal de Juan Fra a partir de un
 - Estilo visual "editorial atlético": negro tinta + papel cálido + acento naranja, tipografía Anton + Barlow.
 - Exportado como PDF imprimible (auto-print).
 
+## 📎 Transcripción completa
+
+- [[2026-05-31-design-rutina|Rutina (design chat)]]
+
 ## 🔗 Relacionado
 
 - [[perfil-juanfra]]
