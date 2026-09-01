@@ -27,10 +27,14 @@
             "id": "b134b4a66771117c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VERA"
             }
           }
         ]
@@ -198,14 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc001c96462846a",
+  "active": "b134b4a66771117c",
   "lastOpenFiles": [
+    "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Claude-Code-Sync-Log.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Claude-Code.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Downloads-Files.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/DUPLICITY.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Nexusmedialab.md",
-    "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/BOT.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code",
     "03_Recursos/Plantillas/Plantilla-Cliente.md",
