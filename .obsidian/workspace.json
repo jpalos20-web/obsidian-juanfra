@@ -11,14 +11,10 @@
             "id": "6ce82f8942951376",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VERA"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -188,9 +184,10 @@
   },
   "active": "6ce82f8942951376",
   "lastOpenFiles": [
+    "Bienvenido.md",
+    "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
     "templates/persona.md",
     "transcripciones/2026-04-30-bot-aut-nomo-de-amazon-afiliados-en-python.md",
-    "02_Areas/Tecnologia-Desarrollo/Claude-Code/VERA.md",
     "02_Areas/Tecnologia-Desarrollo/Claude-Code/Claude-Code.md",
     "transcripciones/Indice-Transcripciones.md",
     "transcripciones/2026-05-14-design-studio-juan-fra.md",
@@ -213,7 +210,6 @@
     "transcripciones/2026-06-01-continuidad-del-proyecto-sin-perder-contexto.md",
     "transcripciones/2026-06-04-tres-posts-de-instagram-para-vera-crm.md",
     "transcripciones/2026-06-10-plan-ascend-de-wix.md",
-    "transcripciones/2026-06-11-vera-crm-features-desplegadas-y-pendientes-de-verificar.md",
     "transcripciones",
     "resources",
     "templates",
