@@ -23,4 +23,5 @@ aliases:
 - [[dossier-video-bodas]] — dossier de ventas para parejas (Juan Fra Palos · Photo & Film)
 - [[clausula-pago-servicio-dron]] — cláusula de contrato para el servicio de dron
 - [[flujo-trabajo-fotografo-bodas]] — flujo de trabajo cliente→evento→entrega y estrategias de marketing
+- [[fotografos-videografos-boda-cataluna]] — panorama de la competencia en Cataluña
 - [[index]]

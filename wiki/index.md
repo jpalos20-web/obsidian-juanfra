@@ -14,6 +14,7 @@ Catálogo de todo lo que hay en esta bóveda, organizado por capa (siguiendo el 
 - [[transcripciones/Indice-Transcripciones|raw/transcripciones]] — 37 conversaciones completas de Claude.ai (chats normales y Claude Design), exportadas sin resumir. Cada resumen en `wiki/` que se basa en una de ellas debería enlazarla en su sección "📎 Transcripciones completas".
 - [[clippings/Indice-Clippings|raw/clippings]] — 21 capturas parciales de Claude.ai hechas con un web clipper (2026-09-15); 17 duplican una conversación ya en `raw/transcripciones/`, 4 son nuevas. Ver el índice para el mapeo completo.
 - [[00_Dashboard-original]] — panel de control antiguo (estructura PARA), conservado como referencia histórica de cómo estaba organizada la bóveda antes de esta reestructuración (2026-09-15).
+- `raw/copilot-conversations/` — conversaciones con el plugin Obsidian Copilot (backend Gemini/opencode) dentro de esta misma bóveda; la mayoría vacías por error de cuota, una completa sobre fotógrafos/videógrafos de Cataluña.
 
 ## 🧩 wiki/sources/ — resúmenes de material ingerido
 
@@ -74,7 +75,9 @@ Subsistema que se mantiene solo mediante una tarea programada (ver [[Claude-Code
 
 ## 🔬 wiki/analyses/ — análisis y síntesis comparativas
 
-Todavía vacío — se irá llenando con estudios comparativos y argumentos sintetizados a partir de varias fuentes (p. ej. "qué plataforma de hosting conviene más", "comparativa de bots de afiliados") a medida que crezca la bóveda.
+- [[fotografos-videografos-boda-cataluna]] — panorama de fotógrafos y videógrafos de referencia en Cataluña, por estilo
+
+Se irá llenando con más estudios comparativos a medida que crezca la bóveda.
 
 ## 🗂️ Utilidades
 
