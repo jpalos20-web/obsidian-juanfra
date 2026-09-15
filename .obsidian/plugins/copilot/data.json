@@ -372,6 +372,16 @@
     "welcomeDismissed": false,
     "skills": {
       "folder": "copilot/skills"
+    },
+    "deviceProfiles": {
+      "8a989a3a-c581-46ef-9365-e4ad01a20434": {
+        "opencode": {
+          "binaryPath": "/Users/alba/.obsidian-copilot/opencode/1.18.16/bin/opencode",
+          "binaryVersion": "1.18.16",
+          "binarySource": "managed",
+          "probeSessionId": "ses_f5b13630fffeORS0MezwYuoTOH"
+        }
+      }
     }
   },
   "providers": {
@@ -400,6 +410,18 @@
       "providerId": "04e717d3-ddcd-46a4-bce4-656b6c3208eb",
       "addedAt": 1789473262964,
       "apiKeyKeychainId": "copilot-v48d64ca1-provider-04e717d3-ddcd-46a4-bce4-656b6c3208eb"
+    },
+    "61c3712d-6069-4910-acb2-15b128db728c": {
+      "providerType": "openai-compatible",
+      "displayName": "opencode",
+      "origin": {
+        "kind": "agent",
+        "agentType": "opencode"
+      },
+      "requiresApiKey": false,
+      "providerId": "61c3712d-6069-4910-acb2-15b128db728c",
+      "addedAt": 1789473365249,
+      "apiKeyKeychainId": null
     }
   },
   "configuredModels": [
@@ -518,6 +540,69 @@
         }
       },
       "configuredAt": 1789473262968
+    },
+    {
+      "providerId": "61c3712d-6069-4910-acb2-15b128db728c",
+      "info": {
+        "id": "opencode/big-pickle",
+        "displayName": "OpenCode Zen/Big Pickle"
+      },
+      "configuredModelId": "03f05fb8-9124-4f4d-a1bd-1e18bbc53d69",
+      "configuredAt": 1789473365255
+    },
+    {
+      "providerId": "61c3712d-6069-4910-acb2-15b128db728c",
+      "info": {
+        "id": "opencode/ling-3.0-flash-fin-free",
+        "displayName": "OpenCode Zen/Ling 3.0 Flash Fin Free"
+      },
+      "configuredModelId": "94d174a8-4fab-4f31-8711-4c3127491dce",
+      "configuredAt": 1789473365255
+    },
+    {
+      "providerId": "61c3712d-6069-4910-acb2-15b128db728c",
+      "info": {
+        "id": "opencode/mimo-v2.5-free",
+        "displayName": "OpenCode Zen/MiMo V2.5 Free"
+      },
+      "configuredModelId": "998f5595-597c-40e3-b08e-4d3fadca94b2",
+      "configuredAt": 1789473365255
+    },
+    {
+      "providerId": "61c3712d-6069-4910-acb2-15b128db728c",
+      "info": {
+        "id": "opencode/muse-spark-1.2-contributor-free",
+        "displayName": "OpenCode Zen/Muse Spark 1.2 Free"
+      },
+      "configuredModelId": "895e1271-26c1-4031-9085-e41be5b0fabd",
+      "configuredAt": 1789473365257
+    },
+    {
+      "providerId": "61c3712d-6069-4910-acb2-15b128db728c",
+      "info": {
+        "id": "opencode/muse-spark-1.3-contributor-free",
+        "displayName": "OpenCode Zen/Muse Spark 1.3 Free"
+      },
+      "configuredModelId": "c3968164-f3b5-4547-b389-7d088f217242",
+      "configuredAt": 1789473365257
+    },
+    {
+      "providerId": "61c3712d-6069-4910-acb2-15b128db728c",
+      "info": {
+        "id": "opencode/nemotron-3-ultra-free",
+        "displayName": "OpenCode Zen/Nemotron 3 Ultra Free"
+      },
+      "configuredModelId": "81a52ac8-0a73-493b-b7c9-260b7c50dd0f",
+      "configuredAt": 1789473365257
+    },
+    {
+      "providerId": "61c3712d-6069-4910-acb2-15b128db728c",
+      "info": {
+        "id": "opencode/nemotron-3.5-lightning-free",
+        "displayName": "OpenCode Zen/Nemotron 3.5 Lightning Free"
+      },
+      "configuredModelId": "afe89146-5446-4fab-8b7c-76259fb99a64",
+      "configuredAt": 1789473365257
     }
   ],
   "backends": {
@@ -539,7 +624,10 @@
     "opencode": {
       "enabledModels": [
         "ec965346-65d1-4727-88d2-ee38490d19e0",
-        "f6ef9e22-6b7b-4bcc-ad9b-d40631f7c28d"
+        "f6ef9e22-6b7b-4bcc-ad9b-d40631f7c28d",
+        "03f05fb8-9124-4f4d-a1bd-1e18bbc53d69",
+        "94d174a8-4fab-4f31-8711-4c3127491dce",
+        "998f5595-597c-40e3-b08e-4d3fadca94b2"
       ]
     }
   },
