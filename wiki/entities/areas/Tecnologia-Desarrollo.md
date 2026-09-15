@@ -20,4 +20,4 @@ aliases:
 ## Enlaces útiles
 
 - [[Vera-CRM-Memoria-Tecnica|Vera CRM — Mapa del Tesoro para IA]] — memoria técnica en vivo del repo de Vera (symlink)
-- [[00_Dashboard]]
+- [[index]]

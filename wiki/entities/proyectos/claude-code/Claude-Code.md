@@ -27,4 +27,4 @@ tags:
 ## Enlaces
 
 - [[Tecnologia-Desarrollo]]
-- [[00_Dashboard]]
+- [[index]]

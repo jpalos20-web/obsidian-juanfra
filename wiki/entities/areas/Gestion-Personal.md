@@ -17,4 +17,4 @@ aliases:
 
 ## Enlaces útiles
 
-- [[00_Dashboard]]
+- [[index]]
