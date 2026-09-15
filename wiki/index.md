@@ -14,7 +14,7 @@ Catálogo de todo lo que hay en esta bóveda, organizado por capa (siguiendo el 
 - [[transcripciones/Indice-Transcripciones|raw/transcripciones]] — 37 conversaciones completas de Claude.ai (chats normales y Claude Design), exportadas sin resumir. Cada resumen en `wiki/` que se basa en una de ellas debería enlazarla en su sección "📎 Transcripciones completas".
 - [[clippings/Indice-Clippings|raw/clippings]] — 21 capturas parciales de Claude.ai hechas con un web clipper (2026-09-15); 17 duplican una conversación ya en `raw/transcripciones/`, 4 son nuevas. Ver el índice para el mapeo completo.
 - [[00_Dashboard-original]] — panel de control antiguo (estructura PARA), conservado como referencia histórica de cómo estaba organizada la bóveda antes de esta reestructuración (2026-09-15).
-- `raw/copilot-conversations/` — conversaciones con el plugin Obsidian Copilot (backend Gemini/opencode) dentro de esta misma bóveda; la mayoría vacías por error de cuota, una completa sobre fotógrafos/videógrafos de Cataluña.
+- `raw/copilot-conversations/` — carpeta de guardado configurada en el propio plugin Copilot (`defaultSaveFolder`), así que cualquier chat nuevo cae aquí directamente. La primera tanda (2026-09-15) ya está procesada: ver [[fotografos-videografos-boda-cataluna]].
 
 ## 🧩 wiki/sources/ — resúmenes de material ingerido
 

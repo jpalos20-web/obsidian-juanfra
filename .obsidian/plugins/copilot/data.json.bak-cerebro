@@ -27,7 +27,7 @@
     "copilot"
   ],
   "upgradedToV8FromLegacy": false,
-  "defaultSaveFolder": "raw/copilot-conversations",
+  "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": true,
   "autoAddActiveContentToContext": true,

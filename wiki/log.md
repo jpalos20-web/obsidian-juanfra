@@ -46,3 +46,9 @@ Si ese web clipper sigue activo, conviene apuntarlo a `raw/clippings/` directame
 ## 2026-09-15 — carpeta copilot/ del plugin Obsidian Copilot
 
 Se instaló el plugin "Copilot" de Obsidian, que crea `copilot/` en la raíz del vault: `copilot/skills/` (configuración del plugin, infraestructura, se deja intacta) y `copilot/copilot-conversations/` (chats reales dentro de la bóveda). Se movieron las conversaciones a `raw/copilot-conversations/` y se procesó la única que llegó a completarse (el resto falló por límite de cuota de la API de Gemini): un listado de fotógrafos/videógrafos de boda de referencia en Cataluña, ahora en [[fotografos-videografos-boda-cataluna]] — primera entrada real de `wiki/analyses/`.
+
+## 2026-09-15 — Copilot guarda ya directamente en raw/
+
+Se cambió `defaultSaveFolder` en `.obsidian/plugins/copilot/data.json` de `copilot/copilot-conversations` a `raw/copilot-conversations` (backup del data.json original guardado como `data.json.bak-cerebro`). A partir de ahora cualquier conversación nueva con Copilot se guarda directamente en `raw/`, sin paso manual — queda cubierta en cualquier repaso futuro de `raw/`. El resto de `copilot/` (`skills/`, `copilot-custom-prompts/`, `projects/`, `memory/`) sigue siendo infraestructura del plugin y no se toca.
+
+Si Obsidian estaba abierto al hacer este cambio, puede hacer falta recargar el plugin Copilot (o reiniciar Obsidian) para que recoja la nueva ruta.

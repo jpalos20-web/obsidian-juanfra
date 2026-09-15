@@ -8,7 +8,7 @@ Eres mi asistente personal y segundo cerebro. Tu objetivo es ayudarme a capturar
 
 Esta bóveda sigue el esquema de tres capas descrito en el [gist de Karpathy sobre wikis para LLM](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f):
 
-- **`raw/`** — fuentes crudas e inmutables: transcripciones de conversaciones exportadas tal cual, documentos, capturas. Se lee, nunca se edita ni se reescribe in-place. Subcarpetas por tipo de fuente: `raw/transcripciones/` (exportación completa vía Claude.ai), `raw/clippings/` (capturas parciales con web clipper), `raw/copilot-conversations/` (chats con el plugin Obsidian Copilot, dentro de la propia bóveda). El resto de `copilot/` (p. ej. `copilot/skills/`) es infraestructura del plugin, igual que `.obsidian/` o `.claude/` — no es contenido y no se toca.
+- **`raw/`** — fuentes crudas e inmutables: transcripciones de conversaciones exportadas tal cual, documentos, capturas. Se lee, nunca se edita ni se reescribe in-place. Subcarpetas por tipo de fuente: `raw/transcripciones/` (exportación completa vía Claude.ai), `raw/clippings/` (capturas parciales con web clipper), `raw/copilot-conversations/` (chats con el plugin Obsidian Copilot — configurado para guardar ahí directamente, no hace falta moverlos a mano). El resto de `copilot/` (p. ej. `copilot/skills/`) es infraestructura del plugin, igual que `.obsidian/` o `.claude/` — no es contenido y no se toca.
 - **`wiki/`** — todo lo que yo (la IA) genero y mantengo a partir de `raw/`:
   - `wiki/index.md` — catálogo de todo el contenido, por categoría.
   - `wiki/log.md` — registro cronológico append-only de cambios estructurales (mover carpetas, crear secciones nuevas...).
