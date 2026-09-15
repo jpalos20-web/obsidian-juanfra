@@ -69,3 +69,11 @@ Se dividió `raw/gemini/consultas-generales-gemini.md` (1.6 MB, ~15.200 líneas)
 Primera pasada dejó `vera-crm.md` con solo 3 fragmentos — la discusión real sobre comercializar Vera como producto (líneas ~1412-1614) se había repartido en otras categorías por usar frases genéricas ("mi CRM") en vez de "Vera CRM" literal. Se corrigió con una segunda pasada de palabras clave más específicas.
 
 Nota puente creada: [[gemini-consultas-por-tema]] (sustituye a [[consultas-generales-gemini-pendiente]], que queda como redirección). Enlazado desde [[vera-crm]]. Pendiente: revisión manual de `sin-clasificar.md` (1.240 fragmentos, el más grande) por si contiene algo de valor mal etiquetado.
+
+## 2026-09-15 — repaso: 3 archivos nuevos en raw/
+
+- `Sin título.md` (raíz de la bóveda, nota vacía de Obsidian que se rellenó con contenido real): tres ideas de vídeo de boda. Movida a `raw/clippings/Tres ideas para videos de boda.md` y resumida en [[ideas-videos-boda]], enlazada desde [[dossier-video-bodas]].
+- `raw/gemini/consultas vera.md`: conversación con Gemini sobre cómo implementar tracking de apertura de emails/lectura de PDFs en Vera sin riesgo legal (RGPD/LSSI-CE). Renombrada a `raw/gemini/consultas-vera-tracking-legal.md` y resumida en [[vera-tracking-emails-pdf-legal]], enlazada desde [[vera-crm]].
+- `raw/copilot-conversations/Fotógrafos_de_boda_en_Cataluña@20260915_175124.md`: nueva conversación de Copilot, esta vez completada sin fallos de cuota — mismo resultado (10 fotógrafos + 10 videógrafos) que ya estaba en [[fotografos-videografos-boda-cataluna]], así que solo se añadió una nota confirmando que el listado se repite igual en una segunda pasada.
+
+También se detectó que una conversación de Copilot abierta antes del cambio de `defaultSaveFolder` siguió escribiendo en la ruta antigua (`copilot/copilot-conversations/`) con una pregunta adicional sin respuesta ("consejos de música para un vídeo de drift"); se fusionó con su copia ya movida en `raw/copilot-conversations/` y se eliminó la carpeta antigua, ahora vacía. Conclusión práctica: el cambio de carpeta de guardado solo afecta a conversaciones *nuevas* — una que ya estaba abierta puede seguir escribiendo en la ruta vieja hasta que se cierre/reinicie.

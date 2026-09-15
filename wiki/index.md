@@ -41,6 +41,8 @@ Catálogo de todo lo que hay en esta bóveda, organizado por capa (siguiendo el 
 - [[flujo-trabajo-fotografo-bodas]] — flujo de trabajo cliente→evento→entrega y estrategias de marketing para bodas
 - [[configurar-obsidian-con-claude]] — cómo se configuró originalmente este vault con Claude
 - [[exportar-conversaciones-a-obsidian]] — cómo nació `raw/transcripciones/` y por qué no hay sync automática claude.ai → Obsidian
+- [[ideas-videos-boda]] — tres enfoques creativos para vídeos de boda (narrativo, dinámico/viral, retro)
+- [[vera-tracking-emails-pdf-legal]] — plan de "Riesgo Cero" (RGPD) para tracking de emails/PDFs en Vera
 
 ## 🧑‍🤝‍🧑 wiki/entities/personas/ — personas
 

@@ -129,6 +129,7 @@ SaaS propio de Juan Fra: un CRM para fotógrafos y videógrafos de bodas en Espa
 - [ ] Decidir si desinstalar algún skill de diseño solapado (Impeccable / Emil Kowalski / Taste Skill)
 - [ ] Verifactu Fase 2 (envío real a AEAT), obligatorio julio 2027
 - [ ] Explorar comercializar Vera como producto para otros fotógrafos (copia privada por cliente) — ver discusión inicial en [[gemini-consultas-por-tema]]
+- [ ] Evaluar implementar tracking de apertura de emails/lectura de PDFs siguiendo el plan de "Riesgo Cero" (RGPD) — ver [[vera-tracking-emails-pdf-legal]]
 
 ## 📎 Transcripciones completas
 
@@ -151,4 +152,5 @@ SaaS propio de Juan Fra: un CRM para fotógrafos y videógrafos de bodas en Espa
 - [[vera-crm-snapshot-2026-09-15]] — snapshot operativo del dashboard (leads, bodas, pagos)
 - [[skills-claude-code-instalacion]]
 - [[gemini-consultas-por-tema]]
+- [[vera-tracking-emails-pdf-legal]]
 - [[Tecnologia-Desarrollo]]

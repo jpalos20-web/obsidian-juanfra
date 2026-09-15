@@ -43,7 +43,7 @@ Listado generado como referencia de posicionamiento: quién más se cita como to
 | Frame Wedding Film | Elegante, acabado de superproducción |
 | Sublimia Films | Orgánico y romántico (combina con Sublimia foto) |
 
-**Nota metodológica:** el resto de conversaciones que generaron esta consulta fallaron por límite de cuota de la API de Gemini (backend del plugin Copilot) o quedaron vacías (modo agent sin respuesta registrada) — solo esta conversación llegó a completarse.
+**Nota metodológica:** el resto de conversaciones que generaron esta consulta fallaron por límite de cuota de la API de Gemini (backend del plugin Copilot) o quedaron vacías (modo agent sin respuesta registrada) — solo esta conversación llegó a completarse. *(Actualización 2026-09-15: una segunda conversación, ya sin fallos de cuota, repitió la misma consulta y devolvió una lista idéntica en contenido — confirma que esta selección no fue un resultado puntual del modelo.)*
 
 ## 🔗 Relacionado
 
