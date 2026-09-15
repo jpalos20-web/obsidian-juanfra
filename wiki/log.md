@@ -57,3 +57,7 @@ Si Obsidian estaba abierto al hacer este cambio, puede hacer falta recargar el p
 
 - `raw/vera — CRM para fotógrafos de boda.md`: clipping web del dashboard de app.veracrm.es. Movido a `raw/clippings/`, resumido en [[vera-crm-snapshot-2026-09-15]] y enlazado desde [[vera-crm]].
 - `raw/Documento sin título.md`: 0 bytes, sin contenido. Se deja donde está (no se borra sin que lo pidas) — probablemente una nota nueva de Obsidian creada sin querer o sin rellenar todavía.
+
+## 2026-09-15 — raw/gemini/ (historial general de Gemini)
+
+Apareció `raw/consultas genrales gemini.md`, un volcado de 1.6 MB / ~15.200 líneas de un historial de Gemini sin separar en chats — mucho más grande y heterogéneo que cualquier fuente anterior. Se movió a `raw/gemini/consultas-generales-gemini.md`. Por su tamaño no se resumió tema por tema; se dejó una nota puente ([[consultas-generales-gemini-pendiente]]) señalando 3 bloques que sí parecen valer la pena procesar (comercialización de Vera CRM, comparativa de precios de álbumes, dominio/hosting de juanfrapalos.com) y quedando el resto pendiente de una pasada dedicada.
