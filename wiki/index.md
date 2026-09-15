@@ -12,7 +12,7 @@ Catálogo de todo lo que hay en esta bóveda, organizado por capa (siguiendo el 
 ## 🗄️ raw/ — fuentes crudas (no se editan)
 
 - [[transcripciones/Indice-Transcripciones|raw/transcripciones]] — 37 conversaciones completas de Claude.ai (chats normales y Claude Design), exportadas sin resumir. Cada resumen en `wiki/` que se basa en una de ellas debería enlazarla en su sección "📎 Transcripciones completas".
-- [[clippings/Indice-Clippings|raw/clippings]] — 21 capturas parciales de Claude.ai hechas con un web clipper (2026-09-15); 17 duplican una conversación ya en `raw/transcripciones/`, 4 son nuevas. Ver el índice para el mapeo completo.
+- [[clippings/Indice-Clippings|raw/clippings]] — capturas parciales hechas con un web clipper: conversaciones de Claude.ai y páginas web (p. ej. el dashboard de Vera CRM). Ver el índice para el detalle de cada una.
 - [[00_Dashboard-original]] — panel de control antiguo (estructura PARA), conservado como referencia histórica de cómo estaba organizada la bóveda antes de esta reestructuración (2026-09-15).
 - `raw/copilot-conversations/` — carpeta de guardado configurada en el propio plugin Copilot (`defaultSaveFolder`), así que cualquier chat nuevo cae aquí directamente. La primera tanda (2026-09-15) ya está procesada: ver [[fotografos-videografos-boda-cataluna]].
 
@@ -26,6 +26,7 @@ Catálogo de todo lo que hay en esta bóveda, organizado por capa (siguiendo el 
 - [[limitaciones-tiktok]] — dos intentos sin resolver de trabajar con vídeos de TikTok
 - [[reparar-zip-corrupto]] — un ZIP "corrupto" que en realidad era falta de espacio en disco
 - [[reconciliacion-gastos-notion]] — cuadre de Notion contra movimientos de ING
+- [[vera-crm-snapshot-2026-09-15]] — snapshot puntual del dashboard de Vera CRM
 - [[auditoria-uso-hetzner]] — comprobación de salud de un despliegue en Hetzner
 - [[integracion-cerebro-digital-obsidian-github]] — antecedente de por qué no hay sync automática claude.ai → Obsidian
 - [[consultas-sueltas-2026]] — 🗄️ *archivado*: nota puente, ya repartida en las notas de arriba y en `wiki/concepts/`

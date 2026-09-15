@@ -147,5 +147,6 @@ SaaS propio de Juan Fra: un CRM para fotógrafos y videógrafos de bodas en Espa
 ## 🔗 Relacionado
 
 - [[VERA]] — historial técnico detallado de sesiones de Claude Code
+- [[vera-crm-snapshot-2026-09-15]] — snapshot operativo del dashboard (leads, bodas, pagos)
 - [[skills-claude-code-instalacion]]
 - [[Tecnologia-Desarrollo]]

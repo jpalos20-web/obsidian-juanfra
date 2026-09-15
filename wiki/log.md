@@ -52,3 +52,8 @@ Se instaló el plugin "Copilot" de Obsidian, que crea `copilot/` en la raíz del
 Se cambió `defaultSaveFolder` en `.obsidian/plugins/copilot/data.json` de `copilot/copilot-conversations` a `raw/copilot-conversations` (backup del data.json original guardado como `data.json.bak-cerebro`). A partir de ahora cualquier conversación nueva con Copilot se guarda directamente en `raw/`, sin paso manual — queda cubierta en cualquier repaso futuro de `raw/`. El resto de `copilot/` (`skills/`, `copilot-custom-prompts/`, `projects/`, `memory/`) sigue siendo infraestructura del plugin y no se toca.
 
 Si Obsidian estaba abierto al hacer este cambio, puede hacer falta recargar el plugin Copilot (o reiniciar Obsidian) para que recoja la nueva ruta.
+
+## 2026-09-15 — dos archivos nuevos en raw/
+
+- `raw/vera — CRM para fotógrafos de boda.md`: clipping web del dashboard de app.veracrm.es. Movido a `raw/clippings/`, resumido en [[vera-crm-snapshot-2026-09-15]] y enlazado desde [[vera-crm]].
+- `raw/Documento sin título.md`: 0 bytes, sin contenido. Se deja donde está (no se borra sin que lo pidas) — probablemente una nota nueva de Obsidian creada sin querer o sin rellenar todavía.

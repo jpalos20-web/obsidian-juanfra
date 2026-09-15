@@ -31,6 +31,10 @@ tags:
 - [[Tres posts de Instagram para Vera CRM]] → [[2026-06-04-tres-posts-de-instagram-para-vera-crm]]
 - [[Vera CRM features desplegadas y pendientes de verificar]] → [[2026-06-11-vera-crm-features-desplegadas-y-pendientes-de-verificar]]
 
+## Otras capturas web (no son chats)
+
+- [[vera — CRM para fotógrafos de boda]] — snapshot del dashboard de app.veracrm.es, 2026-09-15 (resumido en [[vera-crm-snapshot-2026-09-15]])
+
 ## Conversaciones nuevas (sin transcripción completa previa)
 
 - [[Auditoría de uso de Hetzner]] — resumido en [[auditoria-uso-hetzner]]
