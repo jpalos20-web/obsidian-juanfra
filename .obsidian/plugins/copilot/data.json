@@ -386,6 +386,20 @@
       "providerId": "4136a8e2-0a3b-4743-9f26-881756a471a3",
       "addedAt": 1789473033933,
       "apiKeyKeychainId": null
+    },
+    "04e717d3-ddcd-46a4-bce4-656b6c3208eb": {
+      "providerType": "google",
+      "displayName": "Google",
+      "baseUrl": "https://generativelanguage.googleapis.com",
+      "enableCors": false,
+      "requiresApiKey": true,
+      "origin": {
+        "kind": "byok",
+        "catalogProviderId": "google"
+      },
+      "providerId": "04e717d3-ddcd-46a4-bce4-656b6c3208eb",
+      "addedAt": 1789473262964,
+      "apiKeyKeychainId": "copilot-v48d64ca1-provider-04e717d3-ddcd-46a4-bce4-656b6c3208eb"
     }
   },
   "configuredModels": [
@@ -438,6 +452,72 @@
       },
       "configuredModelId": "840408de-f1f5-40dc-9e05-724c960f6368",
       "configuredAt": 1789473034217
+    },
+    {
+      "configuredModelId": "ec965346-65d1-4727-88d2-ee38490d19e0",
+      "providerId": "04e717d3-ddcd-46a4-bce4-656b6c3208eb",
+      "info": {
+        "id": "gemini-flash-latest",
+        "displayName": "Gemini Flash Latest",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "video",
+            "audio",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1048576,
+          "output": 65536
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-08-13",
+        "cost": {
+          "input": 0.75,
+          "output": 3.75,
+          "cacheRead": 0.075
+        }
+      },
+      "configuredAt": 1789473262968
+    },
+    {
+      "configuredModelId": "f6ef9e22-6b7b-4bcc-ad9b-d40631f7c28d",
+      "providerId": "04e717d3-ddcd-46a4-bce4-656b6c3208eb",
+      "info": {
+        "id": "gemini-3.6-flash",
+        "displayName": "Gemini 3.6 Flash",
+        "modalities": {
+          "input": [
+            "text",
+            "image",
+            "video",
+            "audio",
+            "pdf"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1048576,
+          "output": 65536
+        },
+        "reasoning": true,
+        "toolCall": true,
+        "releaseDate": "2026-07-21",
+        "cost": {
+          "input": 0.75,
+          "output": 3.75,
+          "cacheRead": 0.075
+        }
+      },
+      "configuredAt": 1789473262968
     }
   ],
   "backends": {
@@ -448,6 +528,18 @@
         "032bf07b-d80b-4c28-a1c3-5dcf1d1be717",
         "d4b70e07-9c61-4f12-bcf0-242edd57d814",
         "840408de-f1f5-40dc-9e05-724c960f6368"
+      ]
+    },
+    "chat": {
+      "enabledModels": [
+        "ec965346-65d1-4727-88d2-ee38490d19e0",
+        "f6ef9e22-6b7b-4bcc-ad9b-d40631f7c28d"
+      ]
+    },
+    "opencode": {
+      "enabledModels": [
+        "ec965346-65d1-4727-88d2-ee38490d19e0",
+        "f6ef9e22-6b7b-4bcc-ad9b-d40631f7c28d"
       ]
     }
   },
