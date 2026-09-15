@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 727.1953125
+    "width": 200.796875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +205,7 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "50cf6fe184a38a72",
+  "active": "6ce82f8942951376",
   "lastOpenFiles": [
     "wiki/sources/consultas-generales-gemini-pendiente.md",
     "raw/gemini/consultas-generales-gemini.md",
