@@ -12,6 +12,9 @@ aliases:
 
 Carpeta local `/Users/alba/VERA`. CRM para fotógrafos y videógrafos de bodas en España (`veracrm.es` / `app.veracrm.es`, VPS en Hetzner, Docker + Caddy).
 
+> [!tip] Memoria técnica en vivo
+> [[Vera-CRM-Memoria-Tecnica|Vera CRM — Mapa del Tesoro para IA]] es un symlink al `CLAUDE.md` real del repo (`/Users/alba/VERA/CLAUDE.md`), la memoria persistente que Claude Code recarga en cada sesión de Vera: infraestructura, deploy, esquema de BD, pagos, email, Google Calendar, Portal de Novios, etc. Se mantiene deliberadamente corta (ocupa contexto en cada mensaje), así que no la edites desde aquí para añadir enlaces — solo enlázala desde fuera, como en esta nota.
+
 ## Historial de sesiones (Claude Code)
 
 ## Vera CRM lead form optional fields + Instagram

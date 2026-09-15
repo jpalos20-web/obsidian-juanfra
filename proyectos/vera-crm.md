@@ -16,6 +16,9 @@ aliases:
 
 SaaS propio de Juan Fra: un CRM para fotógrafos y videógrafos de bodas en España — "el primer CRM hecho por fotógrafos, para fotógrafos". Pipeline de leads a boda entregada, contratos con firma digital, facturación con Verifactu, cuestionario pre-boda, portal de novios, automatizaciones de email. Stack: React 18 + Node/Express + SQLite + Docker, desplegado en un VPS de Hetzner detrás de Cloudflare y Caddy (rsync deploy, backups nocturnos a R2/B2). Dominio `veracrm.es` (landing) + `app.veracrm.es` (aplicación). Compite indirectamente con BodaLab y Studio Ninja, posicionándose como más simple y hecho específicamente para el sector nupcial español.
 
+> [!tip] Estado técnico en vivo
+> [[Vera-CRM-Memoria-Tecnica|Vera CRM — Mapa del Tesoro para IA]] es la memoria técnica real del repo (symlink a `/Users/alba/VERA/CLAUDE.md`): esquema de BD completo, endpoints, infraestructura, pagos Lemon Squeezy, motor de email, etc. Siempre más al día que esta nota — consúltala para el detalle de implementación exacto.
+
 ## 🎯 Objetivos
 
 1. Sustituir herramientas externas (Wix Ascend, PDFs manuales, WhatsApp suelto) por un flujo nativo end-to-end: lead → cuestionario → contrato firmado → factura → entrega.

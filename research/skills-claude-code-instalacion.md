@@ -33,3 +33,4 @@ Instalación de tres skills de diseño de terceros en el repo de Vera CRM: `emil
 
 - [[vera-crm]]
 - [[nexus-media-lab]]
+- [[guia-prompting-claude]]
