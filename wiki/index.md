@@ -15,7 +15,7 @@ Catálogo de todo lo que hay en esta bóveda, organizado por capa (siguiendo el 
 - [[clippings/Indice-Clippings|raw/clippings]] — capturas parciales hechas con un web clipper: conversaciones de Claude.ai y páginas web (p. ej. el dashboard de Vera CRM). Ver el índice para el detalle de cada una.
 - [[00_Dashboard-original]] — panel de control antiguo (estructura PARA), conservado como referencia histórica de cómo estaba organizada la bóveda antes de esta reestructuración (2026-09-15).
 - `raw/copilot-conversations/` — carpeta de guardado configurada en el propio plugin Copilot (`defaultSaveFolder`), así que cualquier chat nuevo cae aquí directamente. La primera tanda (2026-09-15) ya está procesada: ver [[fotografos-videografos-boda-cataluna]].
-- `raw/gemini/` — volcado del historial general de Gemini (1.6 MB, ~15.200 líneas, mayo–agosto 2026). Sin resumir todavía por su tamaño, ver [[consultas-generales-gemini-pendiente]].
+- `raw/gemini/` — volcado del historial general de Gemini (1.6 MB, ~15.200 líneas, mayo–agosto 2026). Ya separado por temas (automático, por palabras clave) en `raw/gemini/por-tema/`, ver [[gemini-consultas-por-tema]].
 
 ## 🧩 wiki/sources/ — resúmenes de material ingerido
 
@@ -28,7 +28,7 @@ Catálogo de todo lo que hay en esta bóveda, organizado por capa (siguiendo el 
 - [[reparar-zip-corrupto]] — un ZIP "corrupto" que en realidad era falta de espacio en disco
 - [[reconciliacion-gastos-notion]] — cuadre de Notion contra movimientos de ING
 - [[vera-crm-snapshot-2026-09-15]] — snapshot puntual del dashboard de Vera CRM
-- [[consultas-generales-gemini-pendiente]] — 🟡 *pendiente de procesar*: historial general de Gemini, muy grande y heterogéneo
+- [[gemini-consultas-por-tema]] — historial general de Gemini separado por temas (9 archivos derivados en `raw/gemini/por-tema/`); `sin-clasificar.md` sigue pendiente de revisión manual
 - [[auditoria-uso-hetzner]] — comprobación de salud de un despliegue en Hetzner
 - [[integracion-cerebro-digital-obsidian-github]] — antecedente de por qué no hay sync automática claude.ai → Obsidian
 - [[consultas-sueltas-2026]] — 🗄️ *archivado*: nota puente, ya repartida en las notas de arriba y en `wiki/concepts/`

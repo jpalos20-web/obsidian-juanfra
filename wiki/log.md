@@ -61,3 +61,11 @@ Si Obsidian estaba abierto al hacer este cambio, puede hacer falta recargar el p
 ## 2026-09-15 — raw/gemini/ (historial general de Gemini)
 
 Apareció `raw/consultas genrales gemini.md`, un volcado de 1.6 MB / ~15.200 líneas de un historial de Gemini sin separar en chats — mucho más grande y heterogéneo que cualquier fuente anterior. Se movió a `raw/gemini/consultas-generales-gemini.md`. Por su tamaño no se resumió tema por tema; se dejó una nota puente ([[consultas-generales-gemini-pendiente]]) señalando 3 bloques que sí parecen valer la pena procesar (comercialización de Vera CRM, comparativa de precios de álbumes, dominio/hosting de juanfrapalos.com) y quedando el resto pendiente de una pasada dedicada.
+
+## 2026-09-15 — raw/gemini/ separado por temas
+
+Se dividió `raw/gemini/consultas-generales-gemini.md` (1.6 MB, ~15.200 líneas) en 9 archivos por tema dentro de `raw/gemini/por-tema/`, mediante un proceso automático: detección heurística de ~1.970 posibles arranques de pregunta/respuesta + clasificación por palabras clave contra 8 categorías (`vera-crm`, `fotografia-boda`, `nexus-media-lab`, `photo-tooling`, `finanzas-personal`, `web-hosting-dominio`, `tech-general`, `personal-varios`) más un catch-all `sin-clasificar` para no perder nada que el clasificador no reconociera con confianza. El archivo original se conserva intacto en `raw/` — esto es una vista derivada adicional, no un reemplazo.
+
+Primera pasada dejó `vera-crm.md` con solo 3 fragmentos — la discusión real sobre comercializar Vera como producto (líneas ~1412-1614) se había repartido en otras categorías por usar frases genéricas ("mi CRM") en vez de "Vera CRM" literal. Se corrigió con una segunda pasada de palabras clave más específicas.
+
+Nota puente creada: [[gemini-consultas-por-tema]] (sustituye a [[consultas-generales-gemini-pendiente]], que queda como redirección). Enlazado desde [[vera-crm]]. Pendiente: revisión manual de `sin-clasificar.md` (1.240 fragmentos, el más grande) por si contiene algo de valor mal etiquetado.

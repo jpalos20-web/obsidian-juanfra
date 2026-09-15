@@ -35,38 +35,6 @@ Aquí tienes la nueva ráfaga lista para Nexus Media Lab:
 
 ---
 
-<!-- líneas 1484-1510 del original -->
-
-y si lo hiciera para que cada usuario tuviese una copia de el crm, privada?
-Esa es una estrategia muy interesante y tiene un nombre en el mundo del software: Self-Hosted SaaS (Software como Servicio auto-alojado). En lugar de que todos entren en tu "servidor central", cada cliente tiene su propia "parcela" privada.
-Para el nicho de fotógrafos esto es un argumento de venta brutal, porque ellos valoran mucho la privacidad de las fotos y datos de sus clientes.
-Aquí tienes los 3 caminos para hacerlo:
-1. El modelo "Template Premium" (Venta de licencia)
-Es lo más parecido a lo que tienes ahora con el index.html.
-	•	Cómo funciona: Tú no vendes una suscripción, vendes el archivo. El fotógrafo te paga una vez (por ejemplo, 199€) y tú le entregas el código o le ayudas a instalarlo en su propio hosting.
-	•	Pros: Cero costes de servidor para ti. Privacidad total para él.
-	•	Contras: Es difícil cobrar una cuota mensual (recurrencia). Si actualizas el código con mejoras, es un lío enviárselo a todos.
-2. El modelo "Instancia Única" (Dockerizado)
-Este es el más profesional. Usas una tecnología llamada Docker.
-	•	Cómo funciona: Cuando un cliente se registra en Nexus Media Lab, tu sistema crea automáticamente un "contenedor" (un mini-servidor virtual) que solo tiene sus datos.
-	•	Privacidad: Las bases de datos están físicamente separadas. Si hackean a un usuario, los datos del resto están a salvo.
-	•	Comercialización: Puedes cobrar mensualmente porque tú sigues gestionando el servidor, pero le garantizas que "su copia" es privada.
-3. El modelo "No-Code / Low-Code" (App Wrapper)
-Puedes convertir tu HTML en una aplicación de escritorio (para Mac o Windows) usando algo llamado Electron.
-	•	Cómo funciona: El CRM no vive en una web, sino que el fotógrafo se lo descarga como si fuera Photoshop. Los datos se guardan en su propio ordenador, no en la nube.
-	•	Argumento de venta: "Tus datos nunca salen de tu ordenador". Para un fotógrafo que teme que le roben la agenda de clientes, esto es oro.
-💡 Mi recomendación para "Vera"
-Dado que el diseño que has hecho es exquisito y minimalista, yo optaría por una Suscripción con Base de Datos Aislada:
-	•	Mantenlo Web: Es más cómodo para el fotógrafo entrar desde el iPad en una boda o desde el PC en el estudio.
-	•	Usa Supabase con "Row Level Security": Esto permite que, aunque todos los datos estén en el mismo sitio técnico, sea imposible por código que un usuario vea lo de otro. Es privacidad de nivel bancario.
-	•	Véndelo como "Tu búnker privado": En tu marketing, destaca que Vera no comercializa con sus datos y que cada cuenta está encriptada de forma independiente.
-💰 ¿Cómo cobrarlo?
-Si quieres que cada uno tenga su copia privada gestionada por ti:
-	•	Plan Starter: Copia compartida en servidor seguro (9€/mes).
-	•	Plan Pro (Privacidad Total): Su propia base de datos dedicada y subdominio (estudiopepe.vera.io) (29€/mes).
-
----
-
 <!-- líneas 1511-1511 del original -->
 
 ¿Qué te parece la idea de venderlo como una App de escritorio que no necesita internet? Eso simplificaría mucho el tema de la privacidad legal (RGPD). 🚀📸🤖
