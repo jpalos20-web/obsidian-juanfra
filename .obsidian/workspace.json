@@ -172,9 +172,19 @@
               "icon": "copilot-agent",
               "title": "Copilot Agent"
             }
+          },
+          {
+            "id": "50cf6fe184a38a72",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot (Quick Chat)"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -195,8 +205,9 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "5b67b19c63bc0d2c",
+  "active": "50cf6fe184a38a72",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/hazme_una_lista_de_los_meores_10_fotografos_de_boda@20260915_175124.md",
     "copilot/copilot-conversations/agent__dame_los_mejores_videografos_de_cataluña@20260915_142246.md",
     "copilot/copilot-conversations/agent__Listame_los_10_mejores_videografos_de_boda_de_catalunya@20260915_141147.md",
     "copilot/copilot-conversations/agent__@pero_yo_aquí_lo_que_quiero_son_consultas_nuevas,_no@20260915_140431.md",
@@ -232,7 +243,6 @@
     "raw/vera — CRM para fotógrafos de boda.md",
     "wiki/entities/proyectos/vera-crm.md",
     "wiki/index.md",
-    "wiki/concepts/exportar-conversaciones-a-obsidian.md",
     "Sin título.canvas"
   ]
 }
