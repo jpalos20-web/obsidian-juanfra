@@ -367,7 +367,7 @@
     "activeBackend": "opencode",
     "backends": {
       "opencode": {
-        "defaultMode": "auto"
+        "defaultMode": "default"
       }
     },
     "debugFullFrames": true,
