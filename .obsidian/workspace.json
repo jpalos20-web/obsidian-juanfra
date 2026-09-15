@@ -11,10 +11,10 @@
             "id": "f7b985c3abcb5620",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 952.02734375
+    "width": 207.91015625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,15 +205,18 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "5b67b19c63bc0d2c",
+  "active": "f7b985c3abcb5620",
   "lastOpenFiles": [
+    "raw/gemini/por-tema/fotografia-boda.md",
+    "raw/copilot-conversations/agent__dame_los_mejores_videografos_de_cataluña@20260915_142246.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "raw/gemini/consultas vera.md",
     "wiki/concepts/vera-tracking-emails-pdf-legal.md",
     "wiki/concepts/ideas-videos-boda.md",
     "raw/gemini/consultas-vera-tracking-legal.md",
     "raw/clippings/Tres ideas para videos de boda.md",
     "copilot/copilot-conversations/agent__dame_los_mejores_videografos_de_cataluña@20260915_142246.md",
     "copilot/copilot-conversations",
-    "raw/gemini/consultas vera.md",
     "raw/gemini/consultas-generales-gemini.md.sb-9f07521d-kLAQLC",
     "wiki/sources/gemini-consultas-por-tema.md",
     "raw/gemini/por-tema/sin-clasificar.md",
@@ -223,7 +226,6 @@
     "raw/gemini/por-tema/tech-general.md",
     "raw/gemini/por-tema/photo-tooling.md",
     "raw/gemini/por-tema/nexus-media-lab.md",
-    "raw/gemini/por-tema/fotografia-boda.md",
     "raw/gemini/por-tema/finanzas-personal.md",
     "raw/gemini/por-tema",
     "wiki/sources/consultas-generales-gemini-pendiente.md",
@@ -235,8 +237,6 @@
     "raw/Documento sin título.md",
     "wiki/analyses/fotografos-videografos-boda-cataluna.md",
     "raw/copilot-conversations/agent__me_gustaría_saber_los_mejores_fotografos_de_bodas_en_barcelona@20260915_135710.md",
-    "raw/copilot-conversations/agent__dame_los_mejores_videografos_de_cataluña@20260915_142246.md",
-    "raw/copilot-conversations/agent__Listame_los_10_mejores_videografos_de_boda_de_catalunya@20260915_141147.md",
     "raw/copilot-conversations",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
