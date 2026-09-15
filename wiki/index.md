@@ -12,6 +12,7 @@ Catálogo de todo lo que hay en esta bóveda, organizado por capa (siguiendo el 
 ## 🗄️ raw/ — fuentes crudas (no se editan)
 
 - [[transcripciones/Indice-Transcripciones|raw/transcripciones]] — 37 conversaciones completas de Claude.ai (chats normales y Claude Design), exportadas sin resumir. Cada resumen en `wiki/` que se basa en una de ellas debería enlazarla en su sección "📎 Transcripciones completas".
+- [[clippings/Indice-Clippings|raw/clippings]] — 21 capturas parciales de Claude.ai hechas con un web clipper (2026-09-15); 17 duplican una conversación ya en `raw/transcripciones/`, 4 son nuevas. Ver el índice para el mapeo completo.
 - [[00_Dashboard-original]] — panel de control antiguo (estructura PARA), conservado como referencia histórica de cómo estaba organizada la bóveda antes de esta reestructuración (2026-09-15).
 
 ## 🧩 wiki/sources/ — resúmenes de material ingerido
@@ -21,11 +22,21 @@ Catálogo de todo lo que hay en esta bóveda, organizado por capa (siguiendo el 
 - [[rutina-gimnasio-juan-fra]] — rutina de gimnasio personal (fuerza y prevención)
 - [[clausula-pago-servicio-dron]] — cláusula de pago para servicio de dron (contrato)
 - [[negocios-bodas-eventos-cloud]] — ideación de negocios sin explotar en bodas/eventos con IA/cloud
-- [[consultas-sueltas-2026]] — 🟡 *pendiente de procesar*: consultas cortas de bajo valor, decidir si archivar o descartar
+- [[limitaciones-tiktok]] — dos intentos sin resolver de trabajar con vídeos de TikTok
+- [[reparar-zip-corrupto]] — un ZIP "corrupto" que en realidad era falta de espacio en disco
+- [[reconciliacion-gastos-notion]] — cuadre de Notion contra movimientos de ING
+- [[auditoria-uso-hetzner]] — comprobación de salud de un despliegue en Hetzner
+- [[integracion-cerebro-digital-obsidian-github]] — antecedente de por qué no hay sync automática claude.ai → Obsidian
+- [[consultas-sueltas-2026]] — 🗄️ *archivado*: nota puente, ya repartida en las notas de arriba y en `wiki/concepts/`
 
 ## 💡 wiki/concepts/ — metodologías y técnicas reutilizables
 
 - [[guia-prompting-claude]] — guía oficial de Anthropic sobre cómo dar instrucciones a Claude
+- [[recuperar-app-bloqueada-gatekeeper-macos]] — recuperar una app propia eliminada por Gatekeeper/XProtect
+- [[gestionar-consumo-claude-proyectos]] — por qué los Proyectos de Claude.ai consumen más y cómo reducirlo
+- [[flujo-trabajo-fotografo-bodas]] — flujo de trabajo cliente→evento→entrega y estrategias de marketing para bodas
+- [[configurar-obsidian-con-claude]] — cómo se configuró originalmente este vault con Claude
+- [[exportar-conversaciones-a-obsidian]] — cómo nació `raw/transcripciones/` y por qué no hay sync automática claude.ai → Obsidian
 
 ## 🧑‍🤝‍🧑 wiki/entities/personas/ — personas
 

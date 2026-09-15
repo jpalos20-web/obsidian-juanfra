@@ -17,4 +17,5 @@ aliases:
 
 ## Enlaces útiles
 
+- [[reconciliacion-gastos-notion]] — cuadre de Notion contra movimientos de ING
 - [[index]]

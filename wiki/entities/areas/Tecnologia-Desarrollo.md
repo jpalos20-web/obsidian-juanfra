@@ -20,4 +20,6 @@ aliases:
 ## Enlaces útiles
 
 - [[Vera-CRM-Memoria-Tecnica|Vera CRM — Mapa del Tesoro para IA]] — memoria técnica en vivo del repo de Vera (symlink)
+- [[recuperar-app-bloqueada-gatekeeper-macos]] — recuperar apps propias bloqueadas por XProtect/Gatekeeper
+- [[reparar-zip-corrupto]] — comprobar espacio en disco antes de asumir corrupción
 - [[index]]
