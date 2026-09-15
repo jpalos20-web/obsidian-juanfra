@@ -103,7 +103,7 @@
       "reasoningEffort": "medium"
     },
     "Google GenerativeAI (Langchain)": {
-      "model": "gemini-2.0-flash",
+      "model": "gemini-3.6-flash",
       "enableThinking": false,
       "api_key": ""
     }
