@@ -367,11 +367,11 @@
     "activeBackend": "opencode",
     "backends": {
       "opencode": {
-        "defaultMode": "default",
         "defaultModel": {
           "baseModelId": "google/gemini-flash-latest",
           "effort": "medium"
-        }
+        },
+        "defaultMode": "default"
       }
     },
     "debugFullFrames": true,
